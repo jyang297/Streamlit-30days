@@ -1,0 +1,18 @@
+# Ignore Python virtual environments
+
+streamlit/
+
+# Ignore Git metadata
+.git
+.gitignore
+
+# Ignore Docker-related files
+.dockerignore
+Dockerfile
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
