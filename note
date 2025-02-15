@@ -1,1 +1,1 @@
-docker run -p 8084:8084 -it streamlit-day1
+docker run --rm -p 8084:8084 -it streamlit-day1
